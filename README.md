@@ -2,7 +2,7 @@
 
 
   - 🔭 Trabalhando como Suporte do TI do Idiomas/Colégio Aslan
-  - 🌱 Aprendendo Front-End
+  - 🌱 Aprendendo a base de Front-End e Back-End
   - 🤔 Me interesso por diversos projetos e procuro conhecer sobre tudo um pouco
   - 📫 Me contate em minhas redes sociais mais abaixo
   - ⚡ Jogo em categorias de base de basquete, jogo futebol e faço academia
